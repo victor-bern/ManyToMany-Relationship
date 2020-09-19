@@ -13,11 +13,11 @@
 
 ## If you want test it clone repository
 
-## Create a database in postgres with name manytomany
+ Create a database in postgres with name manytomany
 
-## In project directory use 'yarn' to download all dependencies and 'yarn typeorm migration:run' to create columns in postgres
+ In project directory use 'yarn' to download all dependencies and 'yarn typeorm migration:run' to create columns in postgres
 
-## Run 'yarn dev:server' to server run
+ Run 'yarn dev:server' to server run
 
-## Now you can use Insomnia, if u want, to send info to routes or get info for routes 
+ Now you can use Insomnia, if u want, to send info to routes or get info for routes 
   
